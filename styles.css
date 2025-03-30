@@ -1,0 +1,29 @@
+body {
+    display: block;
+    justify-content: center;
+    align-items: center;
+    font-family: Arial, sans-serif;
+    margin: 15%;
+}
+
+h1 {
+    display: block;
+    text-align: center;
+    font-size: 24px;
+    color: #333;
+}
+
+button {
+    display: block;
+    padding: 10px 15px;
+    margin: 20px auto;
+    font-size: 16px;
+    cursor: pointer;
+    background-color: greenyellow;
+    align-items: center;
+    justify-content: center;
+}
+
+#dataDisplay {
+    margin-top: 20px;
+}
